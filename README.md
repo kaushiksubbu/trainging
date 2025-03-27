@@ -1,0 +1,2 @@
+# trainging
+Get trained
